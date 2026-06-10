@@ -1,9 +1,7 @@
 Oii, eu sou a Leticia Goettems ! ✨
 
-Here are some ideas to get you started:
-
-- 🐍 Desenvolvendo projetos práticos com Django e FastAPI
-- 🖥️ Estudando arquitetura de software e banco de dados
+### Como me encontrar:
+LinkedIn: [Leticia Goettems](www.linkedin.com/in/leticia-goettems-2373143a4)
 
 ### 🛠️ Tecnologias e Ferramentas
 
