@@ -1,7 +1,7 @@
 Oii, eu sou a Leticia Goettems ! ✨
 
 ### Como me encontrar:
-LinkedIn: [Leticia Goettems](www.linkedin.com/in/leticia-goettems-2373143a4)
+LinkedIn: [Leticia Goettems](https://www.linkedin.com/in/leticia-goettems-2373143a4/)
 
 ### 🛠️ Tecnologias e Ferramentas
 
